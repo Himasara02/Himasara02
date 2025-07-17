@@ -6,8 +6,8 @@
 <h2 align="center">Hi, I'm Himasara Kulasinghe </h2>
 
 <p align="center">
-I’m a third-year Electrical Engineering undergraduate at the University of Moratuwa, Sri Lanka with a passion for innovation, entrepreneurship, and technology. My work spans embedded systems, PCB and enclosure design, and integrating AI, machine learning, and computer vision along with electronic circuit designing. I’m also exploring smart sensing and biomedical applications. <br><br>
-
+I’m a third-year Electrical Engineering undergraduate at the University of Moratuwa, Sri Lanka with a passion for innovation, entrepreneurship, and technology. My work spans embedded systems, PCB and enclosure design, and integrating AI, machine learning, and computer vision along with electronic circuit designing. I’m also exploring smart sensing and biomedical applications. <br><br> </p>
+<p align="center">
 Beyond tech, I’m active in startups, business development, and project management — driven to create sustainable, real-world impact through engineering.
 </p>
 
